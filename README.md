@@ -1,2 +1,0 @@
-# Activities
-Programming Language: Java
